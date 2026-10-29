@@ -1,7 +1,9 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-# Building CI/CD Pipelines
+# ci-cd-final-project
+
+## Building CI/CD Pipelines
 <!-- TABLE OF CONTENTS -->
 <details open>
   <summary>Table of Contents</summary>
@@ -33,7 +35,8 @@
 
 ## Introduction
 This repository was created as part of IBM's "Continuous Integration and Delivery (CI/CD)" course.<br>
-It's a project about building a CI/CD pipeline.<br>
+Project Name: ci-cd-final-project<br>
+It's a project about building a CI/CD pipeline named ci-cd-final-project.<br>
 <br>
 Much of the code was cloned from the IBM repository: https://github.com/ibm-developer-skills-network/vselh-ci-cd-final-project-template<br>
 <br>
